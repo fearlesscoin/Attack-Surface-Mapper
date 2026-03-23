@@ -25,4 +25,4 @@ All discovered items are categorized based on attacker value:
 
 ## Step 4: Attack Surface Mapping
 The final output provides a prioritized view of the attack surface, helping
-identify where an attacker would likely focus first.
+identify where an attacker would likely focus first..
